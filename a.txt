@@ -1,0 +1,1 @@
+echo "Updated content for file B" > b
